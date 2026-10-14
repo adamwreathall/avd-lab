@@ -8,3 +8,9 @@ clab-*/
 .vault_pass
 *.vault_pass
 .env
+
+# Container images (download separately, too large for git)
+clab/*.tar.xz
+*.tar.xz
+*.tar.gz
+*.tar
