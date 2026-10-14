@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.retry
+.ansible/
+clab-*/
+.vault_pass
+*.vault_pass
+.env
