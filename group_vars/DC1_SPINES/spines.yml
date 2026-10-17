@@ -13,7 +13,7 @@ spine:
   # Define variables per node
   nodes:
     # The Node Name is used as "hostname"
-    - name: dc1-spine11
+    - name: dc1-spine1
       # Unique identifier used for IP addressing and other algorithms
       id: 1
       # Node management interface IPv4 address
